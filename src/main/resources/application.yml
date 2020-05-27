@@ -10,3 +10,10 @@ spring:
     hibernate:
       ddl-auto: update
     show-sql: true
+
+github:
+  client:
+    id: 01ce44c16c7dd39a48f8
+    secret: 96360710dfbafddaad249381a6e171ee28ea2927
+  redirect:
+    uri: http://localhost:8081/callback
